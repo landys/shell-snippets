@@ -1,0 +1,94 @@
+/cygdrive/e/ccccc
++--CarLP
+|  |--CarLP.aps
+|  |--CarLP.cpp
+|  |--CarLP.h
+|  |--CarLP.ncb
+|  |--CarLP.rc
+|  |--CarLP.sln
+|  |--CarLP.sln.bak
+|  |--CarLP.suo
+|  |--CarLP.vcproj
+|  |--CarLP.vcproj.A0B7F3A1518E4EE.zhu.user
+|  |--CarLP.vcproj.bak
+|  |--CarLPDlg.cpp
+|  |--CarLPDlg.h
+|  +--Debug
+|  |  |--BuildLog.htm
+|  |  |--CarLP.exe
+|  |  |--CarLP.exe.embed.manifest
+|  |  |--CarLP.exe.embed.manifest.res
+|  |  |--CarLP.exe.intermediate.manifest
+|  |  |--CarLP.ilk
+|  |  |--CarLP.obj
+|  |  |--CarLP.pch
+|  |  |--CarLP.pdb
+|  |  |--CarLP.res
+|  |  |--CarLPDlg.obj
+|  |  |--FlashWnd.obj
+|  |  |--HelpDlg.obj
+|  |  |--HistogramDlg.obj
+|  |  |--ImageProcessing.obj
+|  |  |--ImageWnd.obj
+|  |  |--NumberDlg.obj
+|  |  |--ProcessDlg.obj
+|  |  |--Quantize.obj
+|  |  |--Scanner.obj
+|  |  |--Splash.obj
+|  |  |--mfc71d.dll
+|  |  |--mt.dep
+|  |  |--stdafx.obj
+|  |  |--vc70.idb
+|  |  |--vc70.pdb
+|  |  |--vc80.idb
+|  |--FlashWnd.cpp
+|  |--FlashWnd.h
+|  |--HelpDlg.cpp
+|  |--HelpDlg.h
+|  |--HistogramDlg.cpp
+|  |--HistogramDlg.h
+|  |--ImageProcessing.cpp
+|  |--ImageWnd.cpp
+|  |--ImageWnd.h
+|  |--Jpeg.lib
+|  |--NumberDlg.cpp
+|  |--NumberDlg.h
+|  |--ProcessDlg.cpp
+|  |--ProcessDlg.h
+|  |--Quantize.cpp
+|  |--Quantize.h
+|  |--ReadMe.txt
+|  |--Resource.h
+|  |--Scanner.cpp
+|  |--Scanner.h
+|  |--Splash.cpp
+|  |--Splash.h
+|  |--UpgradeLog.XML
+|  |--UpgradeLog2.XML
+|  +--_UpgradeReport_Files
+|  |  |--Thumbs.db
+|  |  |--UpgradeReport.css
+|  |  |--UpgradeReport.xslt
+|  |  |--UpgradeReport_Minus.gif
+|  |  |--UpgradeReport_Plus.gif
+|  |--cximage.lib
+|  +--res
+|  |  |--CarLP.ico
+|  |  |--CarLP.manifest
+|  |  |--CarLP.rc2
+|  |  |--Thumbs.db
+|  |  |--bitmap1.bmp
+|  |  |--bmp00001.bmp
+|  |  |--bmp00002.bmp
+|  |--smile_p01.bmp
+|  |--stdafx.cpp
+|  |--stdafx.h
+|  |--xImage.h
+|--CarLP.exe
+|--CarLP.rar
++--New Folder
+|  /--New Folder
+|--New Text ÄãºÃ.txt
+|--hh.txt
+|--msvcr71d.dll
+|--¹þ¹þ ÄãºÃ.txt
