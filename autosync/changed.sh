@@ -8,9 +8,16 @@
 # wangjinde
 # 7/29/2016
 
-if [ ! -f "$1" ]; then
-    echo "Usage: $0 script"
-    exit -1;
+watch_dir=/codes/web-commons
+
+if [ $# -lt 1 ]; then
+	echo "Usage: $0 script"
+	exit 1
 fi
 
-nohup fswatch -0 /codes/web-commons | xargs -0 -n 1 "$1"&
+if [ ! -f "$1" ]; then
+    echo "$1 not exist"
+    exit 2;
+fi
+
+nohup fswatch -0 "$watch_dir" | xargs -0 -n 1 "$1"&
